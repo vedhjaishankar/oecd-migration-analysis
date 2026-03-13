@@ -3,7 +3,7 @@
 ## Project Overview
 This project provides a comprehensive analytical framework for evaluating global migration trends and labor market integration using multi-dimensional OECD datasets[cite: 31]. It automates the ingestion, cleaning, and visualization of international labor mobility data to quantify parity across demographic cohorts.
 
-The system utilizes a modular Python architecture to transform raw JSON API responses into actionable insights and structured exports[cite: 33].
+The system utilizes a modular Python architecture to transform raw JSON API responses into actionable insights and structured exports.
 
 ## Modular Architecture
 The repository is structured to ensure scalability and reproducibility:
